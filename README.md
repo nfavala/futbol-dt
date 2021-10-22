@@ -5,6 +5,9 @@ This is a React-Redux single page app, css styled.
 
 ![ScreenShot](https://github.com/nfavala/futbol-dt/blob/main/Captura%20de%20pantalla%202021-10-22%20140721.png)
 
+![ScreenShot](https://github.com/nfavala/futbol-dt/blob/main/Captura%20de%20pantalla%202021-10-22%20140905.png)
+
+![ScreenShot](https://github.com/nfavala/futbol-dt/blob/main/Captura%20de%20pantalla%202021-10-22%20140935.png)
 
 
 ## Available Scripts
