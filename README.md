@@ -3,6 +3,7 @@ This is a React-Redux single page app, css styled.
 
 ## Visuals
 
+![ScreenShot](https://github.com/nfavala/futbol-dt/blob/main/Captura%20de%20pantalla%202021-10-22%20140721.png)
 
 
 
